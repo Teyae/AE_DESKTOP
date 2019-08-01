@@ -1,0 +1,17 @@
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\bin\Debug\MapControlApplication3.exe
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\bin\Debug\MapControlApplication3.pdb
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.csprojResolveAssemblyReference.cache
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.MainForm.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.Properties.Resources.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.csproj.GenerateResource.Cache
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.exe
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.pdb
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.selcet_gdb.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.FormOpenAttri.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.Createshapefile.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.FrmPointSymbol.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.FormMapTitle.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.FormSelectByAttr.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.Frmbuffer.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.Frmdbconnection.resources
+E:\microsoft data\vb2012\MapControlApplication3\MapControlApplication3\obj\x86\Debug\MapControlApplication3.MainFrm.resources
